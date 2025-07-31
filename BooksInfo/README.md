@@ -27,8 +27,6 @@ It automatically moves to the next page until all books are scraped.
 ## 📁 Output
 
 - ✅ **bookstoscrape.xlsx** – Excel file with scraped book data
-- 🖼️ Screenshot of Output:
-
-![Scraped Book Data](output.png)
+- 🖼️ Screenshot of Output is also present
 
 ---
